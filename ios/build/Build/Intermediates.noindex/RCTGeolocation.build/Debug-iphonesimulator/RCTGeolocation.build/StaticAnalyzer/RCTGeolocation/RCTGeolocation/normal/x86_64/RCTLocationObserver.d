@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/colingregoire/Coding/Personal\ Code/ReactNativeReduxCasts/ReactNativeReduxCasts/tech_stack/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.m \
-  /Users/colingregoire/Coding/Personal\ Code/ReactNativeReduxCasts/ReactNativeReduxCasts/tech_stack/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.h \
+  /Users/colingregoire/Coding/Personal\ Code/turbo-happiness/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.m \
+  /Users/colingregoire/Coding/Personal\ Code/turbo-happiness/node_modules/react-native/Libraries/Geolocation/RCTLocationObserver.h \
   ../../React/Modules/RCTEventEmitter.h ../../React/Base/RCTBridge.h \
   ../../React/Base/RCTBridgeDelegate.h \
   ../../React/Base/RCTJavaScriptLoader.h \

@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/colingregoire/Coding/Personal\ Code/ReactNativeReduxCasts/ReactNativeReduxCasts/tech_stack/node_modules/react-native/Libraries/Network/RCTNetInfo.m \
-  /Users/colingregoire/Coding/Personal\ Code/ReactNativeReduxCasts/ReactNativeReduxCasts/tech_stack/node_modules/react-native/Libraries/Network/RCTNetInfo.h \
+  /Users/colingregoire/Coding/Personal\ Code/turbo-happiness/node_modules/react-native/Libraries/Network/RCTNetInfo.m \
+  /Users/colingregoire/Coding/Personal\ Code/turbo-happiness/node_modules/react-native/Libraries/Network/RCTNetInfo.h \
   ../../React/Modules/RCTEventEmitter.h ../../React/Base/RCTBridge.h \
   ../../React/Base/RCTBridgeDelegate.h \
   ../../React/Base/RCTJavaScriptLoader.h \

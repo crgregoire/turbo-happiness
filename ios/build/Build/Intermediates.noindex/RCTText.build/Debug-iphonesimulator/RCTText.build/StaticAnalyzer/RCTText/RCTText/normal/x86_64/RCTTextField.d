@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/colingregoire/Coding/Personal\ Code/ReactNativeReduxCasts/ReactNativeReduxCasts/tech_stack/node_modules/react-native/Libraries/Text/RCTTextField.m \
-  /Users/colingregoire/Coding/Personal\ Code/ReactNativeReduxCasts/ReactNativeReduxCasts/tech_stack/node_modules/react-native/Libraries/Text/RCTTextField.h \
+  /Users/colingregoire/Coding/Personal\ Code/turbo-happiness/node_modules/react-native/Libraries/Text/RCTTextField.m \
+  /Users/colingregoire/Coding/Personal\ Code/turbo-happiness/node_modules/react-native/Libraries/Text/RCTTextField.h \
   ../../React/Views/RCTComponent.h ../../React/Base/RCTConvert.h \
   ../../React/CSSLayout/CSSLayout.h ../../React/CSSLayout/CSSMacros.h \
   ../../React/Views/RCTAnimationType.h \

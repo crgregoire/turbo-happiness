@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/colingregoire/Coding/Personal\ Code/ReactNativeReduxCasts/ReactNativeReduxCasts/tech_stack/node_modules/react-native/Libraries/Network/RCTNetworkTask.m \
-  /Users/colingregoire/Coding/Personal\ Code/ReactNativeReduxCasts/ReactNativeReduxCasts/tech_stack/node_modules/react-native/Libraries/Network/RCTNetworkTask.h \
+  /Users/colingregoire/Coding/Personal\ Code/turbo-happiness/node_modules/react-native/Libraries/Network/RCTNetworkTask.m \
+  /Users/colingregoire/Coding/Personal\ Code/turbo-happiness/node_modules/react-native/Libraries/Network/RCTNetworkTask.h \
   ../../React/Base/RCTURLRequestDelegate.h \
   ../../React/Base/RCTURLRequestHandler.h \
   ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTDefines.h \

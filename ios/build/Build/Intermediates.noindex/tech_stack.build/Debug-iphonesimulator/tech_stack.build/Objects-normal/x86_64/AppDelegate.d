@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/colingregoire/Coding/Personal\ Code/ReactNativeReduxCasts/ReactNativeReduxCasts/tech_stack/ios/tech_stack/AppDelegate.m \
-  /Users/colingregoire/Coding/Personal\ Code/ReactNativeReduxCasts/ReactNativeReduxCasts/tech_stack/ios/tech_stack/AppDelegate.h \
+  /Users/colingregoire/Coding/Personal\ Code/turbo-happiness/ios/tech_stack/AppDelegate.m \
+  /Users/colingregoire/Coding/Personal\ Code/turbo-happiness/ios/tech_stack/AppDelegate.h \
   ../node_modules/react-native/React/Base/RCTBundleURLProvider.h \
   ../node_modules/react-native/React/Base/RCTRootView.h \
   ../node_modules/react-native/React/Base/RCTBridge.h \

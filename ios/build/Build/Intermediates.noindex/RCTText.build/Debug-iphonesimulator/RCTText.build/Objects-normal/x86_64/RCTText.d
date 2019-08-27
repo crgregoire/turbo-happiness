@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/colingregoire/Coding/Personal\ Code/ReactNativeReduxCasts/ReactNativeReduxCasts/tech_stack/node_modules/react-native/Libraries/Text/RCTText.m \
-  /Users/colingregoire/Coding/Personal\ Code/ReactNativeReduxCasts/ReactNativeReduxCasts/tech_stack/node_modules/react-native/Libraries/Text/RCTText.h \
-  /Users/colingregoire/Coding/Personal\ Code/ReactNativeReduxCasts/ReactNativeReduxCasts/tech_stack/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/colingregoire/Coding/Personal\ Code/turbo-happiness/node_modules/react-native/Libraries/Text/RCTText.m \
+  /Users/colingregoire/Coding/Personal\ Code/turbo-happiness/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/colingregoire/Coding/Personal\ Code/turbo-happiness/node_modules/react-native/Libraries/Text/RCTShadowText.h \
   ../../React/Views/RCTShadowView.h ../../React/CSSLayout/CSSLayout.h \
   ../../React/CSSLayout/CSSMacros.h ../../React/Views/RCTComponent.h \
   ../../React/Base/RCTRootView.h ../../React/Base/RCTBridge.h \

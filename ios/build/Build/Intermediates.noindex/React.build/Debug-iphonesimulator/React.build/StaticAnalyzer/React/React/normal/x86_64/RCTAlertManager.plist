@@ -680,7 +680,7 @@
  </array>
  <key>files</key>
  <array>
-  <string>/Users/colingregoire/Coding/Personal Code/ReactNativeReduxCasts/ReactNativeReduxCasts/tech_stack/node_modules/react-native/React/Modules/RCTAlertManager.m</string>
+  <string>/Users/colingregoire/Coding/Personal Code/turbo-happiness/node_modules/react-native/React/Modules/RCTAlertManager.m</string>
   <string>/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/dispatch/once.h</string>
  </array>
 </dict>

@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/colingregoire/Coding/Personal\ Code/ReactNativeReduxCasts/ReactNativeReduxCasts/tech_stack/ios/tech_stackTests/tech_stackTests.m \
+  /Users/colingregoire/Coding/Personal\ Code/turbo-happiness/ios/tech_stackTests/tech_stackTests.m \
   ../node_modules/react-native/React/Base/RCTLog.h \
   ../node_modules/react-native/React/Base/RCTAssert.h \
   ../node_modules/react-native/React/Base/RCTDefines.h \
